@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+workspace/
+__pycache__/
+*.pyc
+*.ipynb
+.ipynb_checkpoints/
+.env
